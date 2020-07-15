@@ -1,2 +1,2 @@
-# articles
+# Articles
 Tech and studying articles
